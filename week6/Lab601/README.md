@@ -6,6 +6,8 @@ from the provided C# source code.
 ## Submission: a written report which contains
 
 1. A class diagram of the original source code
+![](http://www.uppic.biz/images/2015/10/02/AnimalWorld.png)
+
 2. Detail explaination about the identified pattern and all the parcipants
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
   - Show the class diagram of the program after including the new requirment.
