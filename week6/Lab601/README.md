@@ -22,7 +22,10 @@ Each of continent has 2 type of animal. A Carnivore and a herbivore. For instanc
   
 
   - Test the new requirment by modifying the main function and show the result.
-   
+   ![](http://www.uppic.biz/images/2015/10/02/Screenshot_2015-10-02_17.png)
   
   - Show the main function and snippet of C# code that is related to the process.
+  - ![](http://www.uppic.biz/images/2015/10/02/Screenshot_2015-10-02_17SWkNn.png)
+  - ![](http://www.uppic.biz/images/2015/10/02/Screenshot_2015-10-02_17W4uXz.png)
+  - ![](http://www.uppic.biz/images/2015/10/02/Screenshot_2015-10-02_17suOTg.png)
 
