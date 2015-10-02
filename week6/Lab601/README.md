@@ -18,6 +18,11 @@ Each of continent has 2 type of animal. A Carnivore and a herbivore. For instanc
 
 3. Explain how to include "an asian herbivore and an asian carnivore" to the program: 
   - Show the class diagram of the program after including the new requirment.
+  ![](http://www.uppic.biz/images/2015/10/02/AnimalWorld2.png) 
+  
+
   - Test the new requirment by modifying the main function and show the result.
+   
+  
   - Show the main function and snippet of C# code that is related to the process.
 
